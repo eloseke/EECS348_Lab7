@@ -1,0 +1,18 @@
+body
+{
+    	font-size: 20pt;
+    	font-family: arial;
+	color: white;
+	background-image: url("background.jpg");
+	background-size: 100%;
+}
+
+a:link
+{
+	color: cyan;
+}
+
+a:visited
+{
+	color: 20b2aa;
+}
